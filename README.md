@@ -15,8 +15,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizz-n/Rizz-n/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <!--
 **Rizz-N/Rizz-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
