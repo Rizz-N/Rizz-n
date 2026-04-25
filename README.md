@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/_arutala_nayanika_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="mailto:arzalfarizi12@gmail.com" target="_blank">
+<a href="mailto:arzalfarizi12@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-780718?style=for-the-badge&logo=gmail&labelColor=ffffff" alt="Email"/>
 </a>
 
